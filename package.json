@@ -1,0 +1,10 @@
+{
+  "name": "changelogen-gh-cli-issue",
+  "version": "0.0.0",
+  "scripts": {
+    "release": "changelogen --release --push"
+  },
+  "devDependencies": {
+    "changelogen": "^0.5.5"
+  }
+}
