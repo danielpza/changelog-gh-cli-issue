@@ -1,6 +1,6 @@
 {
   "name": "changelogen-gh-cli-issue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "release": "changelogen --release --push"
   },
